@@ -2,7 +2,7 @@
 
 - 🎓 I'm a student studying Computer Science & Engeneering @ Santa Clara University
 - 🌱 I'm fairly new to Open Source, so feedback is always appreciated!
-- 🤠 Hope to see you aroung the gitverse!
+- 🤠 Hope to see you around the gitverse!
 
 <a rel="me" href="https://ioc.exchange/@0xCONLINE">Feel free to drop a follow on my Mastodon!</a>
 
